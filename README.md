@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hosamm93
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue.js , python
+- 🌱 I’m currently learning node.js , python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: https://www.linkedin.com/in/hosam-monayer-49558b53/
 
